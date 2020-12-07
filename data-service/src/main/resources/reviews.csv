@@ -1,0 +1,4 @@
+reviewId,productId,productName,reviewTitle,reviewBody,reviewRating,reviewerId,verifiedReviewer,vendor,reviewSource,createdAt,updatedAt
+1,100,iphone,besrt phone,the best iphone,4,10,TRUE,apple,flipkart,01-01-2020,01-01-2019
+2,100,iphone,besrt phone,the best iphone,4,10,TRUE,apple,amazon,01-01-2020,01-01-2019
+3,101,iphone 12,best phone ever,the best iphone,5,10,TRUE,apple,amazon,11-11-2020,01-10-2020
